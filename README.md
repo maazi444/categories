@@ -1,1 +1,256 @@
-# categories
+- None
+- Dental
+  - Endodontics
+    - Bleaching Products
+    - Calcium Hydroxide
+    - Cavity Access
+      - Cavity Access Burs & Sets
+      - Gates Glidden
+      - Peeso Reamers
+      - Pulp Devitalizer
+    - Cleaning and Shaping
+      - Broaches
+      - C+ Files
+      - Chelating Agents/EDTA
+      - D Finders
+      - Dehydrating Solution
+      - Flexile Files
+      - H Files
+      - Irrigation Needles
+      - Irrigation solutions
+      - K Files
+      - K Flex Files
+      - NiTi K Files
+      - Path Files
+      - Protaper Hand Files
+      - Reamers
+      - Reciprocating Files
+      - Rotary Files
+      - RT Files
+      - Ultrasonic Systems
+    - Endo Accessories
+      - Endo Aspirators
+      - Endo Boxes
+      - Endo Scales
+      - Endomotor Batteries
+      - File Cleaner
+      - File Holder
+      - Instrument Removal System
+      - K Flex Files
+      - Rubber Dam Kits & Accessories
+        - Rubber Dam Sheet
+    - Obturation
+      - Gutta Percha Points
+      - Lentulo Spirals
+      - MTA & Biodentin
+      - Obturation system
+      - Paper Points
+      - Pluggers & Spreaders
+      - Root Canal Sealers
+    - Post & Core
+      - Core build up materials
+      - Fiber Posts
+      - Metal Posts
+      - Posts & Drills
+    - Re-treatment
+      - Cement Solvent
+      - File Retrieval System
+      - Gutta Percha Solvents
+      - Re-treatment Files
+    - Resin gel
+    - Temporary Filling Material
+  - General Dentistry
+    - Base Formers
+    - Bur Boxes
+    - Cheek Retractors
+    - Cotton Holders
+    - Cotton Roll Dispensers
+    - Dappen Dish
+    - Dental Apron
+    - Denture Boxes
+    - Dispenser Gun & Mixing tips
+    - Disposables
+      - Applicator Tips
+      - Bite Registration Trays
+      - Cotton Products & Accessories
+      - Dental Chair Covers
+      - Diagnostic Sets
+      - Dispensing Tips
+      - Disposable Air Rotors
+      - Disposable Articulators
+      - Disposable Gowns & Accessories
+      - Disposable Protective Wear
+      - Mouth Masks & Head Caps
+      - Protective Sleeves
+      - Saliva Ejectors
+      - Silicone Stoppers
+      - Sterilization Pouches & Rolls
+      - Syringes & Needles
+      - Wedges
+    - Glass Dispensers
+    - Gloves
+    - Hand Mirror
+    - Hand Piece Oil Spray
+    - Irrigation Tubes
+    - Jaw Sets
+    - Kidney Tray
+    - Mixing Bowls & Spatulas
+    - Mixing Pads
+    - Model Formers
+    - Patient Drapes
+    - Personal protection
+      - Face shields
+      - Hand sanitizers
+      - PPE Kits
+      - Shoe Covers
+    - Photographic Mirrors & Contrastors
+    - Plastic Trays
+    - Pmt Set
+    - Protective Eyewear
+    - Scrubs
+    - Spirit Lamp
+    - sterilization products
+    - Tissue Dispenser
+    - Tooth Care
+      - Dental Floss
+      - Interdental Brushes
+      - Mouthwashes
+      - Orthodontics Kit
+      - Pain Relievers
+      - Tooth Brushes
+      - Tooth Pastes
+    - Tooth Jewellery
+    - Typodonts
+    - Utility Trays
+    - Veneer box
+    - X-Ray Accessories
+  - Instruments
+    - Accessories
+    - Diagnostic
+      - Explorer
+      - Mirrors
+      - Mouth Mirror Handle
+      - PMT Set
+      - Probes
+      - Tweezers
+    - Endodontic Instruments
+      - MTA Carrier
+      - RCT pluggers
+      - RCT spreaders
+    - Extraction Instruments
+      - Bone Rongeurs/Filer
+      - Extraction Forceps
+      - Moon’s Probe
+      - Periosteal Elevators
+      - Root Elevators/Luxators
+    - Filling Instruments
+      - Amalgam instruments
+      - Ball Burnisher
+      - Capsule Applier
+      - Composite Instruments
+      - Condensors
+      - Dycal Applicator
+      - Matrix Retainers
+      - Plastic Filling instruments
+      - Spoon excavator
+    - Handpiece stand
+    - Instrument Kit
+    - Instrument Management System
+    - Magnetic Mallet & Accessories
+    - Orthodontic Instruments
+      - Adams Plier
+      - Aligner Pliers
+      - Arch Forming Turret
+      - Band Contouring Pliers
+      - Band Cutting Scissors
+      - Band Forming Pliers
+      - Band Pinching Pliers
+      - Band Pusher
+      - Band Seater
+      - Band/Crown Crimping Pliers
+      - Banding
+      - Boley Gauge
+      - Bracket Positioning Guage
+      - Bracket Tweezers
+      - Buccal Tube Holder
+      - Crimpable Hook Plier
+      - Crown Contouring Pliers
+      - De-La-Rosa
+      - Debanding
+      - Debonding
+      - Distal End Cutter
+      - Elastic Ligature Applicator
+      - Hard Wire Cutter
+      - Heavy Wire Cutter
+      - How Style Plier
+      - Ligature Forming Pliers
+      - Ligature Tucker
+      - Ligature Tying Plier
+      - Ligature Wire Cutter
+      - Light Wire & Bird Beak Plier
+      - Lingual Pliers
+      - Loop Forming
+      - Measuring Instruments
+      - Mosquito Forceps
+      - Needle Holder & Ligating Pliers
+      - Optical Pliers
+      - Pin & Ligature Cutter
+      - Plier Stand
+      - Separator Placing Plier
+      - Three Prong Pliers
+      - Universal Plier
+      - Utility & Speciality
+      - V-Bend Pliers
+      - Weingart Plier
+      - Wire forming
+      - Wire Twister
+    - Periodontal/Hygienic
+      - Curettes
+      - Hand Scalers
+      - Periodontal knives
+      - Periodontal probes/Markers
+      - Periotomes
+    - Prosthodontic Instruments
+      - Articulating Paper Forceps
+      - Articulators
+      - Chip Blower
+      - Cord packer
+      - Crown Removers
+      - Impression Trays
+      - Putty Cutting Knife
+      - Spatulas
+      - Wax Calipers
+      - Wax Carvers
+      - Wax Knife
+    - Surgical Instruments
+      - Bone Chisel & Mallets
+      - Bristow Elevators
+      - Dressing & Sterilizing Forceps
+      - Hemostats
+      - Microsurgery
+      - Needle Holders
+      - Scalpel Blade Remover
+      - Scalpel Handles
+      - Scissors
+      - Screw Drivers
+      - Suction Tips/Tubes
+      - Surgical Curettes
+      - Surgical Retractors
+      - Suture Forceps
+      - Syringes
+      - Tissue Forceps
+    - T Burnisher
+  - Oral Surgery
+    - Anaesthetics
+    - Archbar
+    - Bones grafts and Membrane
+    - Extraction Instruments
+      - Bone Rongeurs/Filer
+      - Extraction Forceps
+      - Periosteal Elevators
+      - Root Elevators/Luxators
+    - Haemostats
+    - Instrument kits
+    - Mini Bone Plates & Screws
+    - Mouths gags
+    -
